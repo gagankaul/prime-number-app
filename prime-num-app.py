@@ -74,3 +74,4 @@ while state:
     play_again = input("Would you like to run the program again (y/n): ")
     if play_again != "y":
         state = False
+        print("\nThank you for using this program. Have a nice day!")
